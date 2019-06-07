@@ -87,4 +87,4 @@ Restaurant picker
 - save historical events, i.e. went to xxx, A like xxx, B don't like xxx, C didn't eat anything (`/w\`)
 - random pick one based on people attending
 
-at15: http://github.com/at15
+[at15]: http://github.com/at15
